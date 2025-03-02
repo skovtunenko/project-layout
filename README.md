@@ -14,10 +14,12 @@ Translations:
 * [Русский](README_ru.md)
 * [Türkçe](README_tr.md)
 * [Italiano](README_it.md)
-* [Vietnamese](README_vi.md)
+* [Tiếng Việt](README_vi.md)
 * [Українська](README_ua.md)
 * [Indonesian](README_id.md)
 * [हिन्दी](README_hi.md)
+* [فارسی](README_fa.md)
+* [Беларуская](README_be.md)
 
 ## Overview
 
